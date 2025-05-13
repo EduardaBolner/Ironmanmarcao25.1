@@ -7,6 +7,7 @@ from recursos.funcoes import inicializarBancoDeDados
 from recursos.funcoes import escreverDados
 import json
 
+
 pygame.init()
 inicializarBancoDeDados()
 tamanho = (800,600)
